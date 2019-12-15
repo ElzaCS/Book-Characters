@@ -1,0 +1,9 @@
+/home/anu/spring/books/src/main/java/com/example/books/controllers/StclareController.java
+/home/anu/spring/books/src/main/java/com/example/books/controllers/Famous5Controller.java
+/home/anu/spring/books/src/main/java/com/example/books/controllers/HomeController.java
+/home/anu/spring/books/src/main/java/com/example/books/models/Stclare.java
+/home/anu/spring/books/src/main/java/com/example/books/repositories/StclareRepository.java
+/home/anu/spring/books/src/main/java/com/example/books/BooksApplication.java
+/home/anu/spring/books/src/main/java/com/example/books/models/Famous5.java
+/home/anu/spring/books/src/main/java/com/example/books/repositories/Famous5Repository.java
+/home/anu/spring/books/src/main/java/com/example/books/config/PersistenceConfiguration.java

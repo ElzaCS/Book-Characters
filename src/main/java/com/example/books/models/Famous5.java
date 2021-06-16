@@ -1,6 +1,8 @@
 package com.example.books.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import lombok.Builder;
+import lombok.Data;
 
 import javax.persistence.*;
 import java.util.List;

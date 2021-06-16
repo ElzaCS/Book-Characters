@@ -18,6 +18,12 @@ public class HomeController {
     private String famous5loc;
     @Value("/api/v1/stclare")
     private String stclareloc;
+    @Value("/api/v1/book")
+    private String bookloc;
+    @Value("/api/v1/char")
+    private String charloc;
+    @Value("/api/v1/genre")
+    private String genreLoc;
 
 
     @GetMapping
@@ -28,6 +34,9 @@ public class HomeController {
         map.put("Greeting",greeting);
         map.put("Famous5",famous5loc);
         map.put("St.Clare",stclareloc);
+        map.put("Book",bookloc);
+        map.put("Genre",genreLoc);
+        map.put("Character",charloc);
         return map;
     }
 }
